@@ -1,1 +1,1 @@
-I decided to publish the source code of a little reddit bot that i've been who's only mission is to answer with only a gif to comments that contains less than 10 words, it searches on giphy for gifs with the content of the comment and replies with it 
+I decided to publish the source code of a little reddit bot that i've made who's only mission is to answer with only a gif to comments that contains less than 10 words, it searches on giphy for gifs with the content of the comment and replies with it 
